@@ -12,7 +12,7 @@ class Main {
         people.add(john);
         people.add(george);
         people.add(ringo);
-        people.add(paul);
+        people.add(paul);//paul
 
         Collections.sort(people);
         printData(people);
